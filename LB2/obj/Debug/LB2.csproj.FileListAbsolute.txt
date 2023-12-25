@@ -1,0 +1,10 @@
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.csproj.AssemblyReference.cache
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.Form1.resources
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.Properties.Resources.resources
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.csproj.GenerateResource.cache
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\LB2\LB2\bin\Debug\LB2.exe.config
+C:\Users\Pavlo\source\repos\LB2\LB2\bin\Debug\LB2.exe
+C:\Users\Pavlo\source\repos\LB2\LB2\bin\Debug\LB2.pdb
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.exe
+C:\Users\Pavlo\source\repos\LB2\LB2\obj\Debug\LB2.pdb
