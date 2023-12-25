@@ -1,0 +1,11 @@
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\bin\Debug\Praktyka2.exe.config
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\bin\Debug\Praktyka2.exe
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\bin\Debug\Praktyka2.pdb
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.csproj.AssemblyReference.cache
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.Form1.resources
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.Properties.Resources.resources
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.csproj.GenerateResource.cache
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.exe
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.pdb
+C:\Users\Pavlo\source\repos\Praktyka2\Praktyka2\obj\Debug\Praktyka2.Form2.resources
